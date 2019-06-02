@@ -1,7 +1,10 @@
-# IDS-CNN£¨Ê¹ÓÃ¾í»ıÉñ¾­ÍøÂç½øĞĞÍøÂçÈëÇÖ¼ì²â£©
-handle2.pyÎªÊı¾İÔ¤´¦Àí´úÂë  
-main.pyÎªÒ»²ãÈ«Á¬½Ó²ã´¦Àíkddcup.data_10_percent_corrected_handled2.cvsÊı¾İ´úÂë  
-cnn_mian.pyÎª¾í»ıÉñ¾­ÍøÂç´¦Àíkddcup.data.corrected_handled2.cvsÊı¾İµÄ´úÂë  
-ÒÔÉÏÁ½¸öÊı¾İ¼¯ÓÉÎÄ¼ş¼ĞÖĞÁ½¸ö.gzÎÄ¼ş½âÑ¹µÃµ½  
+## IDS-CNNï¼ˆä½¿ç”¨å·ç§¯ç¥ç»ç½‘ç»œè¿›è¡Œç½‘ç»œå…¥ä¾µæ£€æµ‹ï¼‰
+handle2.pyä¸ºæ•°æ®é¢„å¤„ç†ä»£ç 
 
-multi_logsÎÄ¼ş¼Ğ¼ÇÂ¼ÁËÑµÁ·¹ı³ÌÖĞTensorFlowÖĞÕÅÁ¿µÄ±ä»¯¼°Ä£ĞÍ×¼È·ÂÊºÍlossµÄ±ä»¯ÈÕÖ¾£¨tensorbord£©  
+main.pyä¸ºä¸€å±‚å…¨è¿æ¥å±‚å¤„ç†kddcup.data_10_percent_corrected_handled2.cvsæ•°æ®ä»£ç   
+
+cnn_mian.pyä¸ºå·ç§¯ç¥ç»ç½‘ç»œå¤„ç†kddcup.data.corrected_handled2.cvsæ•°æ®çš„ä»£ç   
+
+ä»¥ä¸Šä¸¤ä¸ªæ•°æ®é›†ç”±æ–‡ä»¶å¤¹ä¸­ä¸¤ä¸ª.gzæ–‡ä»¶è§£å‹å¾—åˆ°  
+
+multi_logsæ–‡ä»¶å¤¹è®°å½•äº†è®­ç»ƒè¿‡ç¨‹ä¸­TensorFlowä¸­å¼ é‡çš„å˜åŒ–åŠæ¨¡å‹å‡†ç¡®ç‡å’Œlossçš„å˜åŒ–æ—¥å¿—ï¼ˆtensorbordï¼‰  
